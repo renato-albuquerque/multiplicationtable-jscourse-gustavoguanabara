@@ -67,6 +67,9 @@ section select {
 section select option {
     font-weight: bolder;
     color: teal;
+    height: 20px;
+    width: 100px;
+    text-align: center;
 }
 
 footer {

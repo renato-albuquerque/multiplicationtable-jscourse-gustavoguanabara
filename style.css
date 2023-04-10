@@ -40,7 +40,7 @@ section #txtn {
     color: teal;
     font-weight: bolder;
     width: 120px;
-    display: block; /* Strataegy to center. */
+    display: block; /* Strategy to center. */
     margin: auto;
     text-align: center;
 }
